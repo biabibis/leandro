@@ -1,0 +1,42 @@
+* {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.space {
+    margin: 0 10px;
+
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+div {   
+    text-align: center;
+}
+
+.logo {
+    display: inline;
+    align-items: center;
+}
+
+.logo a{
+    color: black;
+}
